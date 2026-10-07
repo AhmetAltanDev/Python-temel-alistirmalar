@@ -1,13 +1,13 @@
 if True:
-    print("Naciş Cancıktır")
+    print("Tamam ")
 if False:
-    ("Naciş Cancık Değil")
+    ("olmaz ")
 a=5
 b=7
 if a==b:
-    print("Naciş Ebcik Kafadır")
+    print("Doğrudur")
 else:
-    print("Naciş Cancık Elebaşı")
+    print("Malesef")
 renk="Mavi"
 if renk=="Beyaz":
     print("Renk Beyaz")
